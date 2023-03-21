@@ -1,3 +1,8 @@
+---
+title: A snap-in usecase
+---
+
+
 ## This is another test file
 Hello World!!
 
